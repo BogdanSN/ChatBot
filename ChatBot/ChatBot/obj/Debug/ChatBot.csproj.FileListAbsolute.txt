@@ -1,0 +1,10 @@
+C:\Users\Ptolemey\AppData\Local\Temporary Projects\ChatBot\bin\Debug\ChatBot.exe.config
+D:\DVCourses\ChatBot\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+D:\DVCourses\ChatBot\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+D:\DVCourses\ChatBot\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+D:\DVCourses\ChatBot\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+D:\DVCourses\ChatBot\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.Cache
+D:\DVCourses\ChatBot\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+D:\DVCourses\ChatBot\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+D:\DVCourses\ChatBot\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBot.resources
+D:\DVCourses\ChatBot\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
